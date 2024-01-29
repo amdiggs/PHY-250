@@ -1,4 +1,4 @@
-## Welcome to the repository for
+## Welcome to
 ## PHY 250: Introduction to General Purpose GPU Computation
 ## University of California Davis, Winter 2024
 
@@ -8,7 +8,7 @@ task. The goal of this course is to provide a Very Friendly introduction to GPU 
 The course will cover the necessary skills for communicating with and writing executable code 
 for your GPU using OpenCL.
 
-##Course Outline:
+## Course Outline:
 1. C/C++ Fundamentals: copies, references and pointers; dynamic memory allocation; classes, 
 class members and operator overloading.
 
